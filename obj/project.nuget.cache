@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSDatvDPf5g=",
+  "success": true,
+  "projectFilePath": "C:\\C project\\MVC.App\\MVC.App\\MVC.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
